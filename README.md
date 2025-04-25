@@ -1,6 +1,6 @@
-# Smartproxy-extension-for-China-clients
+# Decodo extension for China clients
 
-Smartproxy extension download and setup guide for Chrome:
+Decodo extension download and setup guide for Chrome:
 
 1. You can download the required zip file [here](https://github.com/Smartproxy/Smartproxy-extension-for-China-clients/raw/main/chrome-mv3-china.zip).
 2. Unzip the file you have downloaded
